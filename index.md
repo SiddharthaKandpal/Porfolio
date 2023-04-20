@@ -33,11 +33,11 @@ These reports visualize the number of personal injury road traffic casualties in
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 
- ## 👋 Welcome to my portfolio
+## 👋 Welcome to my portfolio
 
-Hello! My name is Sid, and I set up this page to showcase some of the data science projects I've been working on.
+Hello! My name is Sid, and I set up this page to showcase some of the data analytics projects I've been working on.
 
-If you have any questions, feel free to drop me an [email](mailto:siddharthakandpal1828@gmail.com) or send me a message on [LinkedIn]([https://www.linkedin.com/in/matt-chapman-ba8488118/](https://www.linkedin.com/in/siddharthakandpal/). 
+If you have any questions, feel free to drop me an [email](mailto:siddharthakandpal1828@gmail.com) or send me a message on [LinkedIn](https://www.linkedin.com/in/siddharthakandpal/). 
 
 Thanks for reading,
 
