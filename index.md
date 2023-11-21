@@ -30,8 +30,21 @@ These reports visualize the number of personal injury road traffic casualties in
 [View code on GitHub](https://github.com/SiddharthaKandpal/Uk_Traffic_Report)
 
 
+---
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+### Creating Pokemon-Wiki
+Objective: To create the Pokedex on PowerBI and use that to find the most powerful Pokemon.  
+Scope: To Create a battle simulator.
+
+![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/4417b95f-94da-447f-9e19-b21e389826b4)  
+![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/b3d6c1d4-dab1-4f50-8b8e-cbeef53ce855)  
+![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/6b33e20d-9a46-4823-89b3-92185ebf16c4)  
+
+[View code on GitHub](https://github.com/SiddharthaKandpal/pokemon)
+
+
+
+
 
 ## 👋 Welcome to my portfolio
 
