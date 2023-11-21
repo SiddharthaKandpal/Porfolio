@@ -42,7 +42,7 @@ These reports visualize the number of personal injury road traffic casualties in
 
 [View code on GitHub](https://github.com/SiddharthaKandpal/Uk_Traffic_Report)
 
-
+---
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
