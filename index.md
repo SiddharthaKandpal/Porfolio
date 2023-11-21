@@ -18,6 +18,19 @@ The objective of this dataset project is to analyze the factors that contribute 
 
 ---
 
+### Creating Pokemon-Wiki
+Objective: To create the Pokedex on PowerBI and use that to find the most powerful Pokemon.  
+Scope: To Create a battle simulator.
+[![](https://img.shields.io/badge/Power%20BI-%F0%9F%93%8A-White)](#) [![](https://img.shields.io/badge/sql---%F0%9F%93%82-yellow)](#)
+
+![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/4417b95f-94da-447f-9e19-b21e389826b4)  
+![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/b3d6c1d4-dab1-4f50-8b8e-cbeef53ce855)  
+![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/6b33e20d-9a46-4823-89b3-92185ebf16c4)  
+
+[View code on GitHub](https://github.com/SiddharthaKandpal/pokemon)
+
+---
+
 ### Creating Report on UK_Traffic Accident Data
 These reports visualize the number of personal injury road traffic casualties in Great Britain that were reported by the police from 2018 to 2021. Using these reports, users can easily interact with and filter the data based on key fields such as severity, location, year and mode. When selecting these filters the data in the visuals will update to reflect the selected criteria.
 
@@ -32,16 +45,6 @@ These reports visualize the number of personal injury road traffic casualties in
 
 ---
 
-### Creating Pokemon-Wiki
-Objective: To create the Pokedex on PowerBI and use that to find the most powerful Pokemon.  
-Scope: To Create a battle simulator.
-[![](https://img.shields.io/badge/Power%20BI-%F0%9F%93%8A-White)](#) [![](https://img.shields.io/badge/sql---%F0%9F%93%82-yellow)](#)
-
-![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/4417b95f-94da-447f-9e19-b21e389826b4)  
-![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/b3d6c1d4-dab1-4f50-8b8e-cbeef53ce855)  
-![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/6b33e20d-9a46-4823-89b3-92185ebf16c4)  
-
-[View code on GitHub](https://github.com/SiddharthaKandpal/pokemon)
 
 
 
