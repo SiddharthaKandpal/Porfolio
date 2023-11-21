@@ -31,6 +31,25 @@ Scope: To Create a battle simulator.
 
 ---
 
+### Toy-Sales Analysis Dashboard
+This Dashboard Analyzes the sales of a Toy company. Calculated Measures are used such as YTD sales/Growth and MTD sales/Growth to further analyze the data according to the period.
+[![](https://img.shields.io/badge/Power%20BI-%F0%9F%93%8A-White)](#) [![](https://img.shields.io/badge/sql---%F0%9F%93%82-yellow)](#)  
+
+![image](https://github.com/SiddharthaKandpal/Porfolio/assets/78250442/56a311f0-dd49-4f62-bce6-63c0c10f83b3)  
+
+-The Dashboard can filtered through the following slicers- Financial-yr, Month-year, product category, product name, store name, store location and store city.  
+-5 Sales KPIs are also shown as Data cards on the top  Total Sales, YTD sales, LY YTD sales, MTD sales, and LY MTD Sales.  
+-The geographical area of the stores and their sales is shown by map.  
+-Total Sales, MoM%, and YTD Growth% by Month and Year are shown by clustered columns with tooltips.  
+-The matrix table shows the TotalSales, YTD sales, LY YTD sales, and %growth by drilling through store location, then store city, and lastly by name.  
+-The top 5 Products by revenue are shown in the clustered bar chart.  
+-Lastly, Categories of products have their TotalSales, YTD sales, LY YTD sales, and %growth shown via matrix.
+
+
+[View code on GitHub](https://github.com/SiddharthaKandpal/pokemon)
+
+---
+
 ### Creating Report on UK_Traffic Accident Data
 These reports visualize the number of personal injury road traffic casualties in Great Britain that were reported by the police from 2018 to 2021. Using these reports, users can easily interact with and filter the data based on key fields such as severity, location, year and mode. When selecting these filters the data in the visuals will update to reflect the selected criteria.
 
