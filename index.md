@@ -46,7 +46,7 @@ This Dashboard Analyzes the sales of a Toy company. Calculated Measures are used
 -Lastly, Categories of products have their TotalSales, YTD sales, LY YTD sales, and %growth shown via matrix.
 
 
-[View code on GitHub](https://github.com/SiddharthaKandpal/pokemon)
+[View code on GitHub](https://github.com/SiddharthaKandpal/ToysSales)
 
 ---
 
