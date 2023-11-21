@@ -35,6 +35,7 @@ These reports visualize the number of personal injury road traffic casualties in
 ### Creating Pokemon-Wiki
 Objective: To create the Pokedex on PowerBI and use that to find the most powerful Pokemon.  
 Scope: To Create a battle simulator.
+[![](https://img.shields.io/badge/Power%20BI-%F0%9F%93%8A-White)](#) [![](https://img.shields.io/badge/sql---%F0%9F%93%82-yellow)](#)
 
 ![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/4417b95f-94da-447f-9e19-b21e389826b4)  
 ![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/b3d6c1d4-dab1-4f50-8b8e-cbeef53ce855)  
